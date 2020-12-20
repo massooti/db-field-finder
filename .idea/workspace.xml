@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b32b997-4ae3-4c38-bc70-1572429f4c41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1lshphHkcH6UbNdAN1U6lD6SQP2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="script.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/script.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.script.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b32b997-4ae3-4c38-bc70-1572429f4c41" name="Default Changelist" comment="" />
+      <created>1608391917784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608391917784</updated>
+      <workItem from="1608391918872" duration="2410000" />
+      <workItem from="1608438334648" duration="7668000" />
+      <workItem from="1608448237895" duration="3554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="233" width="824" height="691" key="#CLI_Interpreters" timestamp="1608392150923">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state x="573" y="233" width="824" height="691" key="#CLI_Interpreters/60.27.1860.1053@60.27.1860.1053" timestamp="1608392150923" />
+    <state x="448" y="211" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608392157116">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state x="448" y="211" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1608392157116" />
+    <state width="1814" height="275" key="GridCell.Tab.0.bottom" timestamp="1608452468123">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state width="1814" height="275" key="GridCell.Tab.0.bottom/60.27.1860.1053@60.27.1860.1053" timestamp="1608452468123" />
+    <state width="1814" height="275" key="GridCell.Tab.0.center" timestamp="1608452468121">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state width="1814" height="275" key="GridCell.Tab.0.center/60.27.1860.1053@60.27.1860.1053" timestamp="1608452468121" />
+    <state width="1814" height="275" key="GridCell.Tab.0.left" timestamp="1608452468120">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state width="1814" height="275" key="GridCell.Tab.0.left/60.27.1860.1053@60.27.1860.1053" timestamp="1608452468120" />
+    <state width="1814" height="275" key="GridCell.Tab.0.right" timestamp="1608452468122">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state width="1814" height="275" key="GridCell.Tab.0.right/60.27.1860.1053@60.27.1860.1053" timestamp="1608452468122" />
+    <state x="785" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1608391927079">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state x="785" y="479" width="399" height="156" key="NewPhpFileDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1608391927079" />
+    <state x="160" y="127" width="1660" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608451164749">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state x="160" y="127" width="1660" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1608451164749" />
+  </component>
+</project>
