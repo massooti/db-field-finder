@@ -3,7 +3,7 @@
 /**
  * do find & replace for a specific value of field in all the databse tables dynamicly.
  * @author Masoud
- * @link  https://github.com/Mim-Za/db_find_replace.git
+ * @link  https://github.com/massouti/db_find_replace.git
  */
 
 $pdo = new PDO('mysql:host=db_host;dbname=db_name', 'db_user', 'db_password');
